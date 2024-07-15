@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  width: 100%;
+  Height: 50px;
+  background-color: aquamarine;
+}/*# sourceMappingURL=header.css.map */
